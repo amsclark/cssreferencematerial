@@ -3,10 +3,16 @@ reference material to remind myself how flexbox and media queries work
 
 I might add more stuff later, like examples of how prefixes work and how animations work.
 
-ⒶⒶⒶⒶThis material is copyleft, all wrongs reserved under the WTFPL. ⒶⒶⒶⒶ
+ⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶ
+Big A, little A, bouncing B
+The system might have got you but it won't get me
+ⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶⒶ
+
+This material is copyleft, all wrongs reserved under the WTFPL. 
 
 https://en.wikipedia.org/wiki/WTFPL
 
+```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
  
@@ -20,3 +26,4 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION:
 
 0. You just DO WHAT THE FUCK YOU WANT TO.
+```
