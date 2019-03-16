@@ -1,5 +1,4 @@
-
-  #flexcontainer {
+#flexcontainer {
   display: flex;
   justify-content: center;
   flex-direction: row-reverse;
@@ -8,12 +7,22 @@
   padding: 20px 0;
   border: 1px solid #fff;
   width: 900px;
+  animation-name: squishiesquish;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
   }
 
   .innerdivs {
   border: 1px solid #000;
-  padding: 5px; 
+  padding: 5px;
   }
+
+  @keyframes squishiesquish {
+  0% {width: 900px;}
+  50% {width: 450px;}
+  100% {width: 900px;}
+  }
+
 
   @media (max-width: 632px) {
   #flexcontainer {
